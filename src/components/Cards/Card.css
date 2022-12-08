@@ -1,0 +1,38 @@
+.card1{
+    border-bottom: 10px solid  rgba(0, 0, 255,0.5);
+}
+.card2{
+    border-bottom: 10px solid  rgba(0,255, 0,0.5);
+}
+.card3{
+    border-bottom: 10px solid  rgba( 255,0, 0,.5);
+}
+
+.bigcontainer{
+   gap: 20px;
+   position: relative;
+   top: 20px;
+}
+.pic{
+    width: 50px;
+    height: 50px;
+    border-radius: 360px ;
+   position: relative;
+   top: 48px;
+}
+.box{
+    display: flex;
+    justify-content:center;
+}
+.head{
+    position: relative;
+    top: 10px;
+    left: -10px;
+    font-size: 50px;
+}
+.head2{
+    position: relative;
+    top: 10px;
+    left: 2px;
+    font-size: 50px;
+}
